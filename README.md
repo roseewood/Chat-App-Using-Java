@@ -125,7 +125,7 @@ java client.ChatClient
 <pre>
 Client 1: Hello everyone!
 Client 2: Hi! How are you?
-Client 3: Welcome to the chat system.
+Client 3: Welcome to our chat discord.
 </pre>
 
 <hr><br>
